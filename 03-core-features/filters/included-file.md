@@ -1,0 +1,1 @@
+ [**03-core-features--03-workflows-jobs-steps.yaml**](../.github/workflows/03-core-features--03-workflows-jobs-steps.yaml) – illustrates how workflows are organised into jobs and steps and how jobs can run in parallel or depend on each other.
